@@ -1,0 +1,29 @@
+.zaza-nav {
+  background: #004466;
+  max-height: 80px;
+}
+
+.navbar-default .navbar-brand{
+	color:#fff;
+}
+
+.navbar-default .navbar-brand:hover{
+  color: #D4AF37;
+  background-color: transparent;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color: #D4AF37;;
+  background-color: transparent;
+}
+
+.navbar-default{
+	border:none;
+	border-bottom:1px solid #D4AF37;
+}
+body {
+    padding-top: 70px;
+}
